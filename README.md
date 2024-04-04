@@ -1,6 +1,6 @@
 # wildfire-burn-severity
 
-Webapp link: [Wlidfire Burn Severity project](https://indigowizard.github.io/wildfire-burn-severity/webmap.html)
+
 
 Open for contribution! (I see you, hacktoberfest enthousiasts 👀)
 
